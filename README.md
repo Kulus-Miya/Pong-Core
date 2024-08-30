@@ -27,6 +27,7 @@ Le jeu Pong est un classique où deux joueurs ou un joueur contre la machine ess
 3. **Ouvrez le fichier Pong_Core.pde dans Processing :** Lancez Processing et ouvrez le fichier `.pde` fourni dans le dépôt.
 4. **Exécutez le programme :** Cliquez sur le bouton de lecture dans l'IDE de Processing pour lancer le jeu.
 
+## License
 Ce projet est sous Licence MIT. Vous êtes libre de l'utiliser et de le modifier comme bon vous semble, tant que vous respectez les termes de la licence.
 
 ## Auteur
