@@ -1,6 +1,6 @@
 # Pong en Processing 3 🎮
 
-Maquette prototype du jeu Pong réalisé en Processing 3 avec Java pour la mise en pratique de diverses méthodes et apprentissages Lors de mes études en seconde ICN.
+Maquette prototype du jeu Pong réalisé en Processing 3 avec Java pour la mise en pratique de diverses méthodes et apprentissages Lors de mes études au lycée.
 
 <a href="https://imgur.com/IIK8Jv8"><img src="https://i.imgur.com/IIK8Jv8.png" title="source: imgur.com" /></a>
 
@@ -9,7 +9,8 @@ Maquette prototype du jeu Pong réalisé en Processing 3 avec Java pour la mise 
 - **Environnement de développement :** Processing 3
 
 ## Fonctionnement Global
-Le jeu Pong est un classique où deux joueurs ou un joueur contre la machine essaient de faire rebondir la balle dans le but de marquer des points. Le joueur contrôle la raquette à l'aide de la souris pour intercepter la balle et éviter qu'elle ne sorte de l'écran.
+Le jeu Pong est un classique où deux joueurs ou un joueur contre la machine essaient de faire rebondir la balle dans le but de marquer des points. 
+Le joueur contrôle la raquette à l'aide de la souris pour intercepter la balle et éviter qu'elle ne sorte de l'écran.
 
 **Principales mécaniques du jeu :**
 - **Déplacement de la balle :** La balle se déplace à une vitesse constante et rebondit contre les murs et la raquette.
