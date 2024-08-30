@@ -18,14 +18,12 @@ Le jeu Pong est un classique où deux joueurs ou un joueur contre la machine ess
 - **Gestion des vies :** Si la balle sort de l'écran du côté gauche, le joueur perd une vie.
 - **Réinitialisation du jeu :** Lorsqu'il n'y a plus de vies restantes, un clic de souris permet de réinitialiser le jeu.
 
-## Capture d'écran
-<a href="https://imgur.com/IIK8Jv8"><img src="https://i.imgur.com/IIK8Jv8.png" title="source: imgur.com" /></a>
 
 ## Instructions d'installation
 1. **Téléchargez et installez Processing 3 :** Vous pouvez le télécharger depuis le site officiel de Processing [ici](https://processing.org/download/).
 2. **Clonez le dépôt :** Utilisez la commande `git clone` pour cloner ce dépôt sur votre machine.
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Kulus-Miya/Pong-Core.git
 3. **Ouvrez le fichier Pong_Core.pde dans Processing :** Lancez Processing et ouvrez le fichier `.pde` fourni dans le dépôt.
 4. **Exécutez le programme :** Cliquez sur le bouton de lecture dans l'IDE de Processing pour lancer le jeu.
 
